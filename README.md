@@ -58,4 +58,4 @@ streamlit run main.py
 - main.py: The main Streamlit application script.
 - create_db.py: This code creates the vector database.
 - requirements.txt: A list of required packages for the project.
-- .env: Configuration file for storing your OpenAI API key."# Knowledge-base-Q-A-system" 
+- .env: Configuration file for storing your OpenAI API key. 
